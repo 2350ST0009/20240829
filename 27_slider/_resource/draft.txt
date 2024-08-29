@@ -1,0 +1,12 @@
+----------【HTML】----------
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+
+Slider
+
+img1
+img2
+img3
+
+Prev
+Next
